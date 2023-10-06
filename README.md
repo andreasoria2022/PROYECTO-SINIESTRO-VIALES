@@ -5,18 +5,18 @@ Este repositorio es un análisis de datos de los siniestros viales acaecidos en 
                                                                                                                              
 -![data](https://github.com/andreasoria2022/PROYECTO-SINIESTRO-VIALES/assets/105015078/de5ff90e-1bfc-481a-9a0c-0ab650f0b0e2)  contiene los siguientes archivos:
 
-                        homicidios.xlsx  es un archivo con extensión xlsx brindado por la página Buenos Aires Data que nos informa sobre los siniestros viales con víctimas fatales ocurridas en la Ciudad desde el año 2016 – 2021.  Los datos incluyen fecha y ubicación 
-                        del hecho y tipo de transporte involucrados.
+homicidios.xlsx  es un archivo con extensión xlsx brindado por la página Buenos Aires Data que nos informa sobre los siniestros viales con víctimas fatales ocurridas en la Ciudad desde el año 2016 – 2021.  Los datos incluyen fecha y ubicación 
+del hecho y tipo de transporte involucrados.
 
-                        lesiones.xlsx es un archivo con extensión xlsx brindado por la pagina Buenos Aires Data que nos informa sobre las lesiones en siniestros viales ocurridos en la Ciudad desde el año 2019 – 2021. Los datos incluyen fecha, ubicación del hecho y tipo 
-                        de transporte involucrado.
+lesiones.xlsx es un archivo con extensión xlsx brindado por la pagina Buenos Aires Data que nos informa sobre las lesiones en siniestros viales ocurridos en la Ciudad desde el año 2019 – 2021. Los datos incluyen fecha, ubicación del hecho y tipo 
+de transporte involucrado.
 
-                        homicidos.csv este archivo es el resultado de haber realizado el proceso de extracción, transformación y carga de datos  y contiene los datos de los siniestros viales con víctimas fatales ocurridas en la Ciudad de Buenos Aires desde el año 2016 
-                        -2021 
+homicidos.csv este archivo es el resultado de haber realizado el proceso de extracción, transformación y carga de datos  y contiene los datos de los siniestros viales con víctimas fatales ocurridas en la Ciudad de Buenos Aires desde el año 2016 
+-2021 
 
-                        lesiones.csv este archivo es el resultado de haber realizado el proceso de extracción, transformación y carga de datos y contiene los datos de las lesiones de los siniestros viales ocurridas en la Ciudad de Buenos Aires desde el año 2019 -2021 
+lesiones.csv este archivo es el resultado de haber realizado el proceso de extracción, transformación y carga de datos y contiene los datos de las lesiones de los siniestros viales ocurridas en la Ciudad de Buenos Aires desde el año 2019 -2021 
 
-                        resumen_EDA.xlsx: este archivo es un resumen del EDA en Excel.
+resumen_EDA.xlsx: este archivo es un resumen del EDA en Excel.
 
                                                                                                                              
  ![etl](https://github.com/andreasoria2022/PROYECTO-SINIESTRO-VIALES/assets/105015078/4a4fadf3-cb8f-48a4-a301-00fa5b0cac4c)  contiene el siguiente archivo:
