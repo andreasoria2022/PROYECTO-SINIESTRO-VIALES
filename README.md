@@ -1,8 +1,8 @@
 # PROYECTO-SINIESTRO-VIALES
 PROYECTO SINIESTROS VIALES
 Este repositorio es un análisis de datos de los siniestros viales acaecidos en la Ciudad de Buenos Aires durante el período 2016 – 2021. Se procede a detallar las carpetas que contiene:
--![data](https://github.com/andreasoria2022/PROYECTO-SINIESTRO-VIALES/assets/105015078/de5ff90e-1bfc-481a-9a0c-0ab650f0b0e2)
-Carpeta Data:  contiene los siguientes archivos:
+
+-![data](https://github.com/andreasoria2022/PROYECTO-SINIESTRO-VIALES/assets/105015078/de5ff90e-1bfc-481a-9a0c-0ab650f0b0e2)  contiene los siguientes archivos:
 
 homicidios.xlsx  es un archivo con extensión xlsx brindado por la página Buenos Aires Data que nos informa sobre los siniestros viales con víctimas fatales ocurridas en la Ciudad desde el año 2016 – 2021.  Los datos incluyen fecha y ubicación del hecho y tipo de transporte involucrados.
 
