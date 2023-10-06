@@ -31,7 +31,34 @@ EDA.ipynb: es un archivo notebook en los que se realizó el análisis explorator
 
 -	Readme: es un detalle de lo que vamos a encontrar en el repositorio. Y vamos a encontrar un informe. 
 
-Reporte de Análisis.
+Reporte de Análisis de Siniestros Viales
+
+En la Argentina los siniestros viales son una de las principales causas de muerte. Según un informe realizado por Dirección de Estadística Vial de Argentina este es el perfil de las víctimas fatales en siniestros que me pareció importante mencionar para crear conciencia sobre la gravedad del problema.
+
+![fra](https://github.com/andreasoria2022/PROYECTO-SINIESTRO-VIALES/assets/105015078/5cf46cfa-acc7-44bb-879c-2daf88640755)
+
+Causas de accidentes:
+Uso de teléfonos móviles:
+El teléfono celular se ha convertido en una de las principales causales de accidentes de tránsito ya sea para conductores como peatones. Para 2020, mientras que el 18,2% de los peatones cruzan la calle utilizando su teléfono móvil, entre los vehículos particulares que circulan por Buenos Aires a diario (cerca de 1.400.000), el 17,2% de los conductores utilizan un celular mientras conducen.
+De acuerdo con las cifras oficiales de la ANSV, los seis segundos que una persona tarda contestar una llamada escribir un mensaje de WhatsApp, a una velocidad de 100 km/h, equivalen a recorrer una distancia de 166 metros, luego de reaccionar y frenar.
+Exceso de alcohol:
+El alcohol está presente en uno de cada cuatro siniestros viales y las principales víctimas de este tipo de accidentes son los jóvenes de entre 15 y 34 años, según datos del Observatorio Vial.
+Incorrecto uso del casco:
+Los motociclistas que usan el casco tienen un 73% menos de mortalidad que los que no lo usan. A su vez, quienes utilizan protección para su cabeza tienen hasta un 85% menos de lesiones graves que aquellos que conducen sus motos sin casco.
+Cinturón de seguridad:
+Según cifras del Ministerio de Transporte, en Argentina, la mitad de los vehículos – 49,3% – circulan con todos sus ocupantes protegidos mediante el uso del cinturón de seguridad.
+Sin embargo, su uso varía de acuerdo a la posición que ocupa cada persona dentro del coche. Es decir, sólo el 55% de los conductores utilizan el cinturón, proporción que se reduce al 42,8% entre los que viajan en el asiento del acompañante y al 19,9% entre ocupantes de las butacas traseras.
+Un informe de la ANSV revela que, en caso de choque, su uso reduce la posibilidad de sufrir lesiones cerebrales en un 33% en el caso del conductor y de un 56% en el pasajero. También disminuye la posibilidad de sufrir fracturas de cráneo en un 18% y heridas faciales en un 45% para el conductor y 64% para el acompañante. Además, reducen un 45% el riesgo de muerte de los ocupantes de las plazas delanteras y un 44% de los ocupantes de las plazas traseras.
+Ahora vamos a proceder a estudiar los datos de los siniestros viales que se produjeron en la CABA (Ciudad Autónoma de Buenos Aires). En el periodo 2016-2019 se registró un promedio anual de 145 víctimas fatales a 30 días y un promedio de 1200 heridos graves.
+ En el caso de los siniestros viales con víctimas fatales su análisis se realizará semestral para mostrar, para medir y graficar kpis. 
+
+![siniest](https://github.com/andreasoria2022/PROYECTO-SINIESTRO-VIALES/assets/105015078/02c753fe-a99d-4930-b9f5-8ca000fb9f92)
+
+![moto](https://github.com/andreasoria2022/PROYECTO-SINIESTRO-VIALES/assets/105015078/19228edc-b2e9-4fb3-8974-72b962bacc2c)
+
+
+
+
 
 
 
